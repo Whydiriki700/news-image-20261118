@@ -2,9 +2,9 @@
 
 One image that sums up the world news of Wednesday 18 November 2026, drawn as a newspaper front page. An entry for the make.fun **news-image-20261118** bounty.
 
-[![Competition](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
-[![Rank](https://make.fun/badge/news-image-20261118-rank.svg)](https://make.fun/bounty/news-image-20261118)
-[![Reward](https://make.fun/badge/news-image-20261118-reward.svg)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Whydiriki700/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Whydiriki700/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 ## About the entry
 
