@@ -16,7 +16,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 ## Entered in
 
-[news-image-20261118 on make.fun](https://make.fun/bounty/news-image-20261118), a coding bounty paid in USDC on Solana. New to make.fun? [Join with our referral link](https://make.fun/r/cqgy48gh).
+[news-image-20261118 on make.fun](https://make.fun/bounty/news-image-20261118), a coding bounty paid in USDC on Solana. New to make.fun? [Join with our referral link](https://make.fun/r/vwpycztt).
 
 ## License
 
