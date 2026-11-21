@@ -1,3 +1,5 @@
+![news-image-20261118](assets/preview.png)
+
 # The World in One Image: Wednesday 18 November 2026
 
 One image that sums up the world news of Wednesday 18 November 2026, drawn as a newspaper front page. An entry for the make.fun **news-image-20261118** bounty.
